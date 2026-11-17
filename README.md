@@ -40,3 +40,4 @@ Desenvolvedor web, construindo produtos com Astro, TypeScript e PostgreSQL. Atua
 
 ![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfsavio&theme=transparent)
 ![Sequência de contribuições](https://streak-stats.demolab.com?user=sfsavio&theme=transparent&hide_border=true)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sfsavio&theme=transparent)
